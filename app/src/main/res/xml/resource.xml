@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:iconSpaceReserved="false">
+
+    <PreferenceCategory
+        android:title="계정 관리"
+        app:iconSpaceReserved="false">
+
+        <Preference
+            android:key="signout"
+            android:title="로그아웃"
+            app:iconSpaceReserved="false"/>
+
+        <Preference
+            android:key="delete"
+            android:title="회원탈퇴"
+            app:iconSpaceReserved="false"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="앱 정보"
+        app:iconSpaceReserved="false">
+
+        <Preference
+            android:key="app_ver"
+            android:title="앱 버전"
+            app:iconSpaceReserved="false"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="고객지원"
+       app:iconSpaceReserved="false">
+        <Preference
+            android:key="copyright"
+            android:title="저작권 정보"
+            app:iconSpaceReserved="false"/>
+        <!--
+
+        <Preference
+            android:key="support_phone"
+            android:title="전화문의"
+            android:summary="02-1234-1234"
+            app:iconSpaceReserved="false"/>
+
+        <Preference
+            android:key="support_email"
+            android:title="이메일 문의"
+            android:summary="123123@etoday.co.kr"
+            app:iconSpaceReserved="false"/>
+
+        <PreferenceScreen
+            android:title="청소년보호정책"
+            android:summary="청소년보호정책 보기"
+            app:iconSpaceReserved="false">
+            <intent android:action="android.intent.action.VIEW"
+                android:data="http://www.getggul.com/section/privacypolicy" />
+        </PreferenceScreen>
+        -->
+    </PreferenceCategory>
+
+</PreferenceScreen>

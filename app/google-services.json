@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1098097606042",
+    "project_id": "dreamcardseogu-a5fdf",
+    "storage_bucket": "dreamcardseogu-a5fdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098097606042:android:3c127b56923ff3cb8bce23",
+        "android_client_info": {
+          "package_name": "com.e.dreamcardseogu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098097606042-lb44765l4nf9q8uh9q3oemiqbi9hs15q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.e.dreamcardseogu",
+            "certificate_hash": "49510e1a39af86a8fe418f7e1a6aae93b2fd41bb"
+          }
+        },
+        {
+          "client_id": "1098097606042-uj05kastn69cdq98kdgiggsm71m8cntn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ1hpY9ItJObzyzH_03AJskcF_c7J_wZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098097606042-uj05kastn69cdq98kdgiggsm71m8cntn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

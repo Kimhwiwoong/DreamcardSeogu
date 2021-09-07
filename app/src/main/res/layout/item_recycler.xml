@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/recycler_item_item"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="15dp"
+    android:background="@drawable/border_round_white"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/recyclerItem_name"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="8"
+            android:text="상호명"
+            android:textColor="#222222"
+            android:textSize="20sp"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/recyclerItem_rating"
+            android:gravity="left"
+            android:layout_gravity="left"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="5.0"
+            android:textStyle="bold"
+            android:textColor="#FFC107"/>
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+    <TextView
+        android:id="@+id/recyclerItem_phone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="010-1234-5678"
+        android:textColor="#E91E63"/>
+
+    <TextView
+        android:id="@+id/recyclerItem_address"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="인천광역시 서구 어딘가"
+        android:textColor="#737373"
+        android:textSize="15dp" />
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/admin/AndroidStudioProjects/DreamcardSeogu/app/src/debug/res/xml/resource.xml" value="0.34791666666666665" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/DreamcardSeogu/app/src/main/res/drawable-v24/border_round_white.xml" value="0.20677083333333332" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/DreamcardSeogu/app/src/main/res/drawable-v24/ic_baseline_add_circle_24.xml" value="0.20625" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/DreamcardSeogu/app/src/main/res/drawable-v24/round_layout.xml" value="0.3640625" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/DreamcardSeogu/app/src/main/res/drawable/border_round.xml" value="0.20677083333333332" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/DreamcardSeogu/app/src/main/res/drawable/button_signup.xml" value="0.35846153846153844" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/DreamcardSeogu/app/src/main/res/drawable/button_signup_pressed.xml" value="0.35846153846153844" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/DreamcardSeogu/app/src/main/res/layout/activity_copyright.xml" value="0.22" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/DreamcardSeogu/app/src/main/res/layout/activity_login.xml" value="0.5" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/DreamcardSeogu/app/src/main/res/layout/activity_main.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/DreamcardSeogu/app/src/main/res/layout/copyright.xml" value="0.34791666666666665" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/DreamcardSeogu/app/src/main/res/layout/fragment_card.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/DreamcardSeogu/app/src/main/res/layout/fragment_list.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/DreamcardSeogu/app/src/main/res/layout/fragment_maps.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/DreamcardSeogu/app/src/main/res/layout/fragment_rank.xml" value="0.190625" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/DreamcardSeogu/app/src/main/res/layout/item_recycler.xml" value="0.190625" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/DreamcardSeogu/app/src/main/res/layout/markerinfo.xml" value="0.34791666666666665" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/DreamcardSeogu/app/src/main/res/layout/rating_layout.xml" value="0.34791666666666665" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/DreamcardSeogu/app/src/main/res/menu/menu_bottom.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/DreamcardSeogu/app/src/main/res/xml/resource.xml" value="0.34791666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
